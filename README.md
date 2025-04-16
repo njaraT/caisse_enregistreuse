@@ -3,6 +3,9 @@
 # Compilation
 gcc script/caisse.c -o caisse
 
+# L'executer 
+./caisse
+
 # Exemple d'utilisation
 Stock disponible:
 Billets:
